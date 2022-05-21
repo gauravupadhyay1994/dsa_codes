@@ -10,9 +10,7 @@ int main()
 #endif
 
     int a, b, c;
-    cin >> a;
-    cin >> b;
-    cin >> c;
+    cin >> a >> b >> c;
     if (a > b)
     {
         if (a > c)
