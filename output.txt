@@ -1,1 +1,15 @@
-2
+Moving from A to dest
+Moving from A to dest
+Moving from B to dest
+Moving from A to dest
+Moving from C to dest
+Moving from C to dest
+Moving from B to dest
+Moving from A to dest
+Moving from B to dest
+Moving from B to dest
+Moving from A to dest
+Moving from B to dest
+Moving from C to dest
+Moving from C to dest
+Moving from A to dest

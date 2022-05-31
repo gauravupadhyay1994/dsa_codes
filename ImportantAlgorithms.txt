@@ -1,3 +1,4 @@
 1. Kadane for subbarrays
 2. Sieve of Eratosthenes for prime numbers
 3. Euclid Algorithm to find GCD
+4. tower of Hanoi
